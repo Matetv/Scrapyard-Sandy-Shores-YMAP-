@@ -84,6 +84,8 @@ Den Ordner "Scrapyard_Sandy_Shores" sammt Inhalt einfach in den FiveM "resources
 Vergesst nicht folgenden Eintrag in die server.cfg einbinden! 
 "start Scrapyard_Sandy_Shores"
 
+Download MAP:
+http://friendz-club.de/scrapyard-sandy-shores-ymap/
 
 
 ////////////////////////////
