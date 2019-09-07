@@ -1,13 +1,13 @@
-# Scrapyard-Sandy-Shores-YMAP-
+# Scrapyard-Sandy-Shores-YMAP- by Daryl Dixon (Mate_tv) www.Friendz-Club.de
 ////////Informationen////////
 ****************************************************************
-********Schrottplatz Sandy Shores By Daryl Dixon********
-******** www.Friendz-Club.de ********
-********TS3 IP: 62.141.43.204********
-********Discord Friendz-Club: https://discord.gg/EsUmRuQ ********
-********Discord FiveM Friendz-Club: https://discord.gg/f2cDWdC ********
-******** www.Twitch.tv/Mate_tv ********
-****************************************************************
+# ********Schrottplatz Sandy Shores By Daryl Dixon********
+# ******** www.Friendz-Club.de ********
+# ********TS3 IP: 62.141.43.204********
+# ********Discord Friendz-Club: https://discord.gg/EsUmRuQ ********
+# ********Discord FiveM Friendz-Club: https://discord.gg/f2cDWdC ********
+# ******** www.Twitch.tv/Mate_tv ********
+# ****************************************************************
 ////////////////////////////
 
 **Bilder/Pictures**
