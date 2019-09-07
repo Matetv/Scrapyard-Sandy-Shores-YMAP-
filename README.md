@@ -1,6 +1,8 @@
 # Scrapyard-Sandy-Shores-YMAP- 
 by Daryl Dixon (Mate_tv) www.Friendz-Club.de
 
+![Titel](https://forum.fivem.net/uploads/default/original/4X/0/b/e/0be42c775bc8e6984cab626689d0b2c86ecb12aa.jpeg)
+
 ////////Informationen////////
 
 ****************************************************************
